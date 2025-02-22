@@ -1,2 +1,2 @@
-# Halo-Crusades
+# Halo Crusades
 A fantasy driven comic
